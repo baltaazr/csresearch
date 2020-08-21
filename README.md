@@ -1,2 +1,2 @@
-# csresearch
-A blog from my Computer Science Research class at TAS from 2020-2021.
+# Computer Science Research
+A blog for my Computer Science Research class at TAS from 2020-2021.
